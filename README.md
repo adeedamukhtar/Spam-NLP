@@ -29,7 +29,4 @@ This project performs **data wrangling, exploratory data analysis (EDA), and fea
 - **Matplotlib & Seaborn** - Data visualization  
 - **Scikit-learn** - Feature engineering  
 
-## 📌 How to Run the Notebook  
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
+
